@@ -75,9 +75,7 @@ Loại lỗi dùng đúng một trong 7 mã: `id_switch`, `fragmentation`, `lost
 
 | Frame | Mã người | Loại lỗi | Mô tả một câu | Phát hiện ở lượt | Đã sửa? |
 |---:|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| | P1 | | Đã kiểm hai lượt, không lỗi | | |
 
 Tổng hợp số lỗi theo loại:
 
